@@ -5,6 +5,6 @@
 - The barcode will be added to the textarea, and you can send it.
 
 
-# Live demo here.
+# Live demo here(camera required).
 
 - https://paijp.github.io/js-simple-barcode-reader/js-simple-barcode-reader.html
